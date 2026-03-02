@@ -69,6 +69,42 @@ My engineering is guided by deep industry insights and rigorous academic foundat
 
 ---
 
+### 🛠️ Technical Capabilities & Toolkit
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages</h4>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,sass,mysql,mongodb" alt="Languages" /></a><br><br>
+        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,jquery" alt="Frameworks & Libraries" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Tools & Platforms</h4>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,wordpress,docker" alt="Tools & Platforms" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Design & UI/UX</h4>
+      <p>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,ai,ae" alt="Design & UI/UX" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
   <h4>🐍 Contribution Ecosystem</h4>
   <picture>
