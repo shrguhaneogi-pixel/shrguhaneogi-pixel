@@ -9,12 +9,6 @@
   
 </div>
 
-
-<img align="right" hspace="30"
-     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
-     alt="Profile Image"
-     width="320"/>
-
 <div align="left">     
 <a href="https://www.linkedin.com/in/shreyas-guha-neogi-71866037a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
