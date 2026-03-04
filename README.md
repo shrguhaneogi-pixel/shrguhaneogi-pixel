@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./banner.svg" alt="Hello There, I'm Shreyas" />
+  <img src="./banner.svg" alt="I'm Shreyas" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=I+build+scalable+web+systems.;Enhanced+with+intelligent+AI+workflows.;Bridging+Core+Engineering+with+Strategic+Acumen." alt="Typing SVG" /></a>
 
