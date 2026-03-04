@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&height=100&section=header" alt="Header Banner" />
-</p>
-
 <div align="center">
   <img src="./banner.svg" alt="I'm Shreyas" />
   
@@ -24,7 +20,7 @@
 </a>
 </div>
 
-<h1 align="center">
+<h1 align="left">
   Let's Connect and have a Chat!💬
 </h1>
 
