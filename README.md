@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Hello%20There!"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Hello%20There!"/>
 </p>
 
 <div align="center">
@@ -44,9 +44,12 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-<img align="right" width="350" src="https://github-production-user-asset-6210df.s3.amazonaws.com/99337968/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260304T065151Z&X-Amz-Expires=300&X-Amz-Signature=a7d714b56ff93a3a826882628b1a046b2091e19974df7678b47b77ea182c2bc0&X-Amz-SignedHeaders=host" alt="Coding GIF">
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
 
 ```yaml
 name: Shreyas Guha Neogi
