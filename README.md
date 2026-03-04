@@ -22,6 +22,11 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
+     
 <h1 align="left">
   Let's Connect and have a Chat!💬
 </h1>
@@ -44,12 +49,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
-
-<img align="right" hspace="30"
-     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
-     alt="Profile Image"
-     width="320"/>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="60" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 ```yaml
 name: Shreyas Guha Neogi
