@@ -6,9 +6,16 @@
   <img src="./banner.svg" alt="I'm Shreyas" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=I+build+scalable+web+systems.;Enhanced+with+intelligent+AI+workflows.;Bridging+Core+Engineering+with+Strategic+Acumen." alt="Typing SVG" /></a>
-
+  
 </div>
 
+
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
+
+<div align="left">     
 <a href="https://www.linkedin.com/in/shreyas-guha-neogi-71866037a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -21,11 +28,7 @@
 <a href="https://www.instagram.com/crimsoncodie09/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-
-<img align="right" hspace="30"
-     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
-     alt="Profile Image"
-     width="320"/>
+</div>
      
 <h1 align="left">
   Let's Connect and have a Chat!💬
@@ -49,7 +52,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="20" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 ```yaml
 name: Shreyas Guha Neogi
