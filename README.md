@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Hello%20There!"/>
+</p>
+
 <div align="center">
   <img src="./banner.svg" alt="I'm Shreyas" />
   
@@ -5,7 +9,6 @@
 
 </div>
 
-<div align="center">
 <a href="https://www.linkedin.com/in/shreyas-guha-neogi-71866037a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
@@ -18,13 +21,13 @@
 <a href="https://www.instagram.com/crimsoncodie09/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-</div>
 
 <h1 align="left">
   Let's Connect and have a Chat!💬
 </h1>
 
 ---
+
 
 ## 📊 GitHub Stats:
 
@@ -42,6 +45,8 @@
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+<img align="right" width="350" src="https://github-production-user-asset-6210df.s3.amazonaws.com/99337968/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260304%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260304T065151Z&X-Amz-Expires=300&X-Amz-Signature=a7d714b56ff93a3a826882628b1a046b2091e19974df7678b47b77ea182c2bc0&X-Amz-SignedHeaders=host" alt="Coding GIF">
 
 ```yaml
 name: Shreyas Guha Neogi
@@ -114,7 +119,7 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
 ---
