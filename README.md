@@ -9,10 +9,6 @@
 
 </div>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/shreyas-guha-neogi-71866037a/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -28,6 +24,10 @@
 </a>
 </div>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 ---
 
 ## 📊 GitHub Stats:
@@ -39,7 +39,6 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrguhaneogi-pixel&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrguhaneogi-pixel&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrguhaneogi-pixel&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=shrguhaneogi-pixel&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
 <img height="169em" src="https://nirzak-streak-stats.vercel.app?user=shrguhaneogi-pixel&theme=radical">
 
 </div><br>
