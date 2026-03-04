@@ -49,7 +49,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="60" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="20" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 ```yaml
 name: Shreyas Guha Neogi
