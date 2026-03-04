@@ -1,73 +1,83 @@
 <div align="center">
-  <img src="./banner.svg" alt="Hello There, I'm Shreyas" />
-  # ⚡ Full-Stack Developer & AI Engineer
+  <img src="./banner.svg" alt="I'm Shreyas" />
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=I+build+scalable+web+systems.;Enhanced+with+intelligent+AI+workflows.;Bridging+Core+Engineering+with+Strategic+Acumen." alt="Typing SVG" /></a>
 
-  > Architecting high-performance infrastructure, integrating machine learning concepts like Batch Normalization and Dynamic Programming, and leveraging strategic management principles.
-
 </div>
 
----
+<div align="center">
+<a href="https://www.linkedin.com/in/shreyas-guha-neogi-71866037a/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://dev.to/crimsoncodie09">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+<a href="https://x.com/ShrNeo72403">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/crimsoncodie09/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</div>
 
-### 🌐 The "Live Ecosystem"
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Tech Stack & Engineering Core</h4>
-      <p>Building resilient systems with a focus on modern frameworks and cloud infrastructure.</p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nextjs,nodejs,fastapi,postgresql" alt="Core Stack" /> </a>
-      <br><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=gcp,docker,redis,git,github,kubernetes,aws" alt="Cloud and DevOps" /> </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Real-Time Telemetry</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=shrguhaneogi-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<h1 align="left">
+  Let's Connect and have a Chat!💬
+</h1>
 
 ---
 
-### 🚀 Featured Engineering Architecture
+## 📊 GitHub Stats:
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>01 — RAGPipe</h4>
-      <em>AI Document Intelligence Platform</em> <br>
-      Engineered a system using OpenAI GPT-4o, LangChain, and a PostgreSQL pgvector hybrid search, reducing manual review time by 74%.
-    </td>
-    <td width="33%" valign="top">
-      <h4>02 — ReDispatch</h4>
-      <em>Distributed Job Queue</em> <br>
-      Built a fault-tolerant layer with Redis Streams and FastAPI, achieving 99.97% at-least-once delivery and sustaining 8,400 jobs/min.
-    </td>
-    <td width="33%" valign="top">
-      <h4>03 — MetriQ</h4>
-      <em>Multi-Tenant SaaS Analytics</em> <br>
-      Shipped a Next.js and ClickHouse self-serve dashboard with robust row-level security and streamed CSV exports handling up to 500k rows.
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrguhaneogi-pixel&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrguhaneogi-pixel&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrguhaneogi-pixel&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrguhaneogi-pixel&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrguhaneogi-pixel&theme=radical&utcOffset=8">
+<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=shrguhaneogi-pixel&theme=radical">
+
+</div><br>
 
 ---
 
-### 🧠 Strategic Domain Knowledge & The Learning Lab
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-My engineering is guided by deep industry insights and rigorous academic foundations:
+```yaml
+name: Shreyas Guha Neogi
+located_in: Kolkata, West Bengal
+current_job: Full Stack Developer & AI Engineer
+education:
+  [
+    "Learning Developer and Designer",
+    "Bachelor's in Electronics and Communication",
+  ]
 
-* **Strategic Management:** Applying Porter's Five Forces, analyzing switching costs, and studying business models within ecosystems like the Tata Group (Tata Capital, Tata Motors, Neu).
-* **Maritime Logistics:** Understanding global choke points (Strait of Malacca, Hormuz), the Blue Economy, and the ISM Code to conceptualize software for physical supply chains.
-* **App Ecosystems:** Navigating Google Play Store policies, store listing experiments, and engagement data for optimal app monetization.
-* **The Hackathon Vault:** Utilizing the SCAMPER ideation method for rapid prototyping, assessing project feasibility, and designing scalable UI/UX interfaces under pressure.
-* **Academic Deep Dive:** Currently tackling the MAKAUT curriculum, bridging the gap between theoretical physics/electrical engineering and applied C++ and SQL problem-solving.
-* **Logic & Gamification:** Modeling complex state machines through the rules of UNO variants (Wild Color Roulette).
-
----
+fields_of_interests:
+  [
+    "Web Development",
+    "App Development"
+    "Data Science",
+    "AI & Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
+```
+  
+---  
 
 ### 🛠️ Technical Capabilities & Toolkit
 
@@ -76,14 +86,14 @@ My engineering is guided by deep industry insights and rigorous academic foundat
     <td width="50%" valign="top">
       <h4>Languages</h4>
       <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,sass,mysql,mongodb" alt="Languages" /></a><br><br>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,cpp,cs,css,html,js,mongodb" alt="Languages" /></a><br><br>
         <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>Frameworks & Libraries</h4>
       <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,jquery" alt="Frameworks & Libraries" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,nodejs,angular,fastapi,redux,tailwind" alt="Frameworks & Libraries" /></a>
       </p>
     </td>
   </tr>
@@ -91,7 +101,7 @@ My engineering is guided by deep industry insights and rigorous academic foundat
     <td width="50%" valign="top">
       <h4>Tools & Platforms</h4>
       <p>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,wordpress,docker" alt="Tools & Platforms" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,git,docker,aws,gcp" alt="Tools & Platforms" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -102,6 +112,10 @@ My engineering is guided by deep industry insights and rigorous academic foundat
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ---
 
