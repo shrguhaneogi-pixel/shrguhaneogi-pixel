@@ -40,7 +40,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrguhaneogi-pixel&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrguhaneogi-pixel&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrguhaneogi-pixel&theme=radical&utcOffset=8">
-<img height="189em" src="https://nirzak-streak-stats.vercel.app?user=shrguhaneogi-pixel&theme=radical">
+[![GitHub Streak](https://streak-stats.demolab.com?user=shrguhaneogi-pixel&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700)](https://git.io/streak-stats)
 
 </div><br>
 
