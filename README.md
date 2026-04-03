@@ -74,7 +74,6 @@ technical_background:
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
