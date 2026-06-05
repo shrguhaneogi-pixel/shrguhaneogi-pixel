@@ -123,6 +123,10 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views" />
+
+---
+
 <div align="center">
   <h4>🐍 Contribution Ecosystem</h4>
   <picture>
