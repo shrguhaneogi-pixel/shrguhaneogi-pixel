@@ -30,6 +30,10 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=shrguhaneogi-pixel" alt="Profile Views" />
+
+---
+
 
 ## 📊 GitHub Stats:
 
@@ -121,9 +125,6 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
----
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views" />
 
 ---
 
