@@ -28,12 +28,8 @@
   Let's Connect and have a Chat!💬
 </h1>
 
----
 
 <img src="https://komarev.com/ghpvc/?username=shrguhaneogi-pixel" alt="Profile Views" />
-
----
-
 
 ## 📊 GitHub Stats:
 
