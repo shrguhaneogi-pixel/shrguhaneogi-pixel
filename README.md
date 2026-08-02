@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shrguhaneogi-pixel?cardType=github&theme=ayu-mirage&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![Codolio Card](https://codolio.com/profile/crimsonCodie09/card)](https://codolio.com/profile/crimsonCodie09)
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrguhaneogi-pixel&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrguhaneogi-pixel&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrguhaneogi-pixel&theme=radical">
