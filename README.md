@@ -38,12 +38,6 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  [![Codolio Card](https://codolio.com/profile/crimsonCodie09/card)](https://codolio.com/profile/crimsonCodie09)
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrguhaneogi-pixel&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrguhaneogi-pixel&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrguhaneogi-pixel&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrguhaneogi-pixel&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shrguhaneogi-pixel&theme=radical&utcOffset=8">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shrguhaneogi-pixel&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700" alt="GitHub Streak" /></a>
 
 </div><br>
