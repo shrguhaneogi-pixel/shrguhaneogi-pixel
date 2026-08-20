@@ -31,14 +31,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=shrguhaneogi-pixel" alt="Profile Views" />
 
-## 📊 GitHub Stats:
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shrguhaneogi-pixel&theme=github-green-purple&border_radius=4.9&border=E3D512&ring=FFD700" alt="GitHub Streak" /></a>
-
-</div><br>
-
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
@@ -115,6 +107,14 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false">    <img  alt="shrguhaneogi-pixel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shrguhaneogi-pixel?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" />  </a>
+
+</div><br>
 
 ---
 
