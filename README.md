@@ -46,7 +46,6 @@
 
 ---
 
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me & My Interests <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 ```yaml
@@ -119,8 +118,10 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=%F0%9F%90%8D%20Contribution%20Ecosystem%20%27N%20Heatmap&fontSize=24" width="1000px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=%F0%9F%90%8D%20Contribution%20Ecosystem%20%27N%20Heatmap&fontSize=28" width="1000px"/>
 </p>
+
+---
 
 <div align="center">
 
