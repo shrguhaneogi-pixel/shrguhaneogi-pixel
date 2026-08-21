@@ -103,12 +103,6 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
-
-
 ---
 
 ## 📊 GitHub Profile Stats:
@@ -126,6 +120,9 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=🐍%20Contribution%20Ecosystem"/>
+</p>
 
 <div align="center">
   <h3>🐍 Contribution Ecosystem</h3>
