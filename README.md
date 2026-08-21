@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=🖖%20Hello%20There!" width="1000px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=🖖%20Hello%20There!&fontSize=48" width="1000px"/>
 </p>
 
 <div align="center">
@@ -116,6 +116,8 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
     </td>
   </tr>
 </table>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=%F0%9F%90%8D%20Contribution%20Ecosystem%20%27N%20Heatmap&fontSize=28" width="1000px"/>
