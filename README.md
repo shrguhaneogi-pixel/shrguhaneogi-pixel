@@ -107,22 +107,45 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 
----
 
-## 📊 GitHub Stats:
-
-<div align="center">
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false">    <img  alt="shrguhaneogi-pixel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shrguhaneogi-pixel?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" />  </a>
-
-</div><br>
 
 ---
 
+## 📊 GitHub Profile Stats:
+
+
 <div align="center">
-  <h4>🐍 Contribution Ecosystem</h4>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false"><img alt="shrguhaneogi-pixel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shrguhaneogi-pixel?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" width="64%" /></a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=shrguhaneogi-pixel&layout=compact&langs_count=12&theme=highcontrast"><img alt="shrguhaneogi-pixel's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=shrguhaneogi-pixel&layout=compact&langs_count=12&theme=highcontrast" width="35%" /></a>
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shrguhaneogi-pixel&theme=chartreuse-dark" alt="GitHub Streak" width="49%" /></a>
+  <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106"><img alt="shrguhaneogi-pixel's GitHub Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" width="50%" /></a>
+</div>
+
+<br/>
+
+---
+
+
+<div align="center">
+  <h3>🐍 Contribution Ecosystem</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrguhaneogi-pixel/shrguhaneogi-pixel/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrguhaneogi-pixel/shrguhaneogi-pixel/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrguhaneogi-pixel/shrguhaneogi-pixel/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<div align="center">
+    
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ShrGN's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=shrguhaneogi-pixel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
