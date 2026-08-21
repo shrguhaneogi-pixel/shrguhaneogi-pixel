@@ -121,7 +121,7 @@ hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=🐍%20Contribution%20Ecosystem"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&text=Contributions"/>
 </p>
 
 <div align="center">
