@@ -1,0 +1,22 @@
+name: Update Profile README
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate README
+        uses: athul/readme-scribe@master
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        with:
+          template: readme.md.tpl
+          write: README.md
