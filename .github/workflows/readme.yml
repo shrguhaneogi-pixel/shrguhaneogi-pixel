@@ -4,8 +4,11 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Every day at 00:00 UTC
+    # Run every day at 00:00 UTC
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -13,10 +16,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate README
-        uses: athul/readme-scribe@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate README with markscribe
+        uses: muesli/readme-scribe@master
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
-          template: readme.md.tpl
-          write: README.md
+          template: "readme.md.tpl"
+          writeTo: "README.md"
+
+      - name: Commit generated README
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update profile README"
+          branch: main
