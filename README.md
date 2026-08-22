@@ -29,18 +29,22 @@
 </h1>
 
 
+## 📊 GitHub Profile Stats:  
 <img src="https://komarev.com/ghpvc/?username=shrguhaneogi-pixel" alt="Profile Views" />
-
-## 📊 GitHub Profile Stats:
-
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false"><img alt="shrguhaneogi-pixel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/shrguhaneogi-pixel?cardType=level&theme=chartreuse-dark&fontFamily=&preferLogin=false" width="63%" /></a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=shrguhaneogi-pixel&layout=compact&langs_count=12&theme=highcontrast"><img alt="shrguhaneogi-pixel's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=shrguhaneogi-pixel&layout=compact&langs_count=12&theme=highcontrast" width="35%" /></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shrguhaneogi-pixel&theme=chartreuse-dark" alt="GitHub Streak" width="88%"/></a>
-  <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106"><img alt="shrguhaneogi-pixel's GitHub Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" width="64%" /></a>
 </div>
+<br/>
 
+
+## 📊 Hackatime Stats: 
+
+<div align="center">
+  <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106"><img alt="shrguhaneogi-pixel's GitHub Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30106&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" /></a>
+</div>
 <br/>
 
 ---
